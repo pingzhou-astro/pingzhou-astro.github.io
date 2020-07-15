@@ -1,1 +1,1 @@
-# pingzhou-astro.github.io
+# pingzhou.github.io
